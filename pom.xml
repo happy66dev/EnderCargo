@@ -93,11 +93,5 @@
             <scope>provided</scope>
         </dependency>
 
-        <dependency>
-            <groupId>net.guizhanss</groupId>
-            <artifactId>GuizhanLibPlugin</artifactId>
-            <version>1.8.1</version>
-            <scope>provided</scope>
-        </dependency>
     </dependencies>
 </project>
