@@ -1,4 +1,4 @@
-# EnderCargo - 末影货运接口
+# EnderCargo - 末影货运接口 [魔改版]
 
 这是一个添加了可以跨维度传输物品的货运接口的粘液科技附属。
 
@@ -14,3 +14,7 @@
     <img src="https://builds.guizhanss.net/f/SlimefunGuguProject/EnderCargo/master/badge.svg" alt="Build status"/>
   </a>
 </p>
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=happy66dev/EnderCargo&type=Date)](https://star-history.com/#happy66dev/EnderCargo&Date)
